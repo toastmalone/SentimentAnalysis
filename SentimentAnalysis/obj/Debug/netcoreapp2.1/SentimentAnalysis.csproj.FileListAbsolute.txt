@@ -1,0 +1,8 @@
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.deps.json
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.json
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.dll
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfo.cs
