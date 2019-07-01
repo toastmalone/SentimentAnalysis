@@ -6,3 +6,15 @@ C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcore
 C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csproj.CoreCompileInputs.cache
 C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfoInputs.cache
 C:\Users\Josh\source\repos\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfo.cs
+E:\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\Data\yelp_labelled.txt
+E:\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.deps.json
+E:\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.json
+E:\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.dev.json
+E:\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.dll
+E:\Projects\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.pdb
+E:\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csprojAssemblyReference.cache
+E:\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csproj.CoreCompileInputs.cache
+E:\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfoInputs.cache
+E:\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfo.cs
+E:\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.dll
+E:\Projects\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.pdb
